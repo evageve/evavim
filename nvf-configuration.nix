@@ -21,7 +21,7 @@
 
       nix.enable = true;
       rust.enable = true;
-      python.enable = true;
+      python.enable = false;
       markdown.enable =true;
      
     };
