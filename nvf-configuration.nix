@@ -23,6 +23,7 @@
       rust.enable = true;
       python.enable = false;
       markdown.enable =true;
+      #tidal.enable = true;
      
     };
 
