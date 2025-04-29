@@ -43,6 +43,7 @@
 		print('Obsidian.nvim loaded <3')
 		'';
       };
+      
     };
 
 
